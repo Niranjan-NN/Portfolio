@@ -29,6 +29,13 @@ export const EXPERIENCES = [
     description: `Focused on understanding core data science principles, including data analysis and machine learning methodologies. Participated in hands-on learning sessions that covered data visualization techniques and model development. Gained insights into real-world data applications and contributed to discussions on improving data-driven strategies within the organization.`,
     technologies: ["Azure", "PowerBI", "Excell", "OpenCV"],
   },
+  {
+    year: "Sept-2024 - Oct-2024",
+    role: "Artificial Intelligence(Trainee)",
+    company: "SNS InnovationHub",
+    description: `Focused on understanding core data engineering principles, including data regresion,clustering and machine learning methodologies. Participated in hands-on learning sessions that covered data visualization techniques and model development. Gained insights into real-world data applications and contributed to discussions on improving data-driven strategies within the organization.`,
+    technologies: ["Azure", "PowerBI", "DataBricks"],
+  },
 ];
 
 export const PROJECTS = [
