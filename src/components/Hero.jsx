@@ -17,7 +17,7 @@ const Hero = () => {
                 <p className="my-2 max-w-lg py-6 text-xl leading-relaxed tracking-tighter">
                   {HERO_CONTENT}
                 </p>
-                <a href="/resume.pdf"
+                <a href="/resume (4).pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     download
